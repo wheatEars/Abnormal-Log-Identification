@@ -1,0 +1,1202 @@
+[
+    {
+        "log": "1121359977 2005.07.14 R03-M1-N8-I:J18-U11 RAS APP ciod: Error creating node map from file /home/pakin1/sweep3d-2.2b/results/random1-8x8x8x2.map: Block device required",
+        "index": 0
+    },
+    {
+        "log": "1119972857 2005.06.28 UNKNOWN_LOCATION NULL HARDWARE NodeCard power module U67 is not accessible",
+        "index": 1
+    },
+    {
+        "log": "1132060369 2005.11.15 R07-M1-N2-C:J02-U11 RAS KERNEL critical input interrupt (unit=0x0b bit=0x17): warning for tree C1 wire, suppressing further interrupts of same type",
+        "index": 2
+    },
+    {
+        "log": "1132230157 2005.11.17 R36-M1-N0-C:J16-U11 RAS KERNEL plus normalized number...................0",
+        "index": 3
+    },
+    {
+        "log": "1119401318 2005.06.21 R22-M0-N8-I:J18-U11 RAS APP ciod: Error loading ./runtime_logfile: invalid or missing program image, No such file or directory",
+        "index": 4
+    },
+    {
+        "log": "1121814781 2005.07.19 R35-M1-N0-I:J18-U11 RAS APP ciod: Error creating node map from file /home/williams/miranda/src/vx_32k_256x256x1_8x4x4.map: Bad file descriptor",
+        "index": 5
+    },
+    {
+        "log": "1117961704 2005.06.05 R11-M0-NB-C:J07-U11 RAS KERNEL guaranteed data cache block touch........1",
+        "index": 6
+    },
+    {
+        "log": "1117961702 2005.06.05 R11-M0-NB-C:J07-U11 RAS KERNEL debug interrupt enable............0",
+        "index": 8
+    },
+    {
+        "log": "1126377761 2005.09.10 R52-M0-N8-I:J18-U01 RAS KERNEL ciod: generated 9 core files for program /home/glosli/src/ddcMD/ddcMD1.1.17/bin/ddcMDbglV",
+        "index": 11
+    },
+    {
+        "log": "1117961702 2005.06.05 R11-M0-NB-C:J07-U11 RAS KERNEL machine check enable..............1",
+        "index": 12
+    },
+    {
+        "log": "1125456300 2005.08.30 R63-M0-L2-U21-A RAS LINKCARD MidplaneSwitchController::receiveTrain() iap failed: R63-M0-L2-U21-A, status=ffbffbff ec000000",
+        "index": 14
+    },
+    {
+        "log": "1132230134 2005.11.17 R36-M1-N0-C:J16-U11 RAS KERNEL machine check summary.............1",
+        "index": 15
+    },
+    {
+        "log": "1123202333 2005.08.04 NULL RAS MMCS idoproxydb hit ASSERT condition: ASSERT expression=!(RecvMsgHdr.ulLen > 0x10000) Source file=idomarshalerio.cpp Source line=387 Function=virtual int IdoMarshalerIo::RunRecv()",
+        "index": 16
+    },
+    {
+        "log": "1119322957 2005.06.20 R03-M0-NB-C:J10-U11 RAS KERNEL error threshold, consider replacing the card",
+        "index": 17
+    },
+    {
+        "log": "1132791443 2005.11.23 R62-M0-NC-I:J18-U11 RAS KERNEL ciod: In packet from node 80.0 (R62-M0-NF-C:J15-U01), message still ready for node 48 (softheader=00300050 00020000 00000003 00000000)",
+        "index": 23
+    },
+    {
+        "log": "1132912056 2005.11.25 R26-M1-N4-I:J18-U11 RAS KERNEL ciod: Received signal 4, code=1, errno=0, address=0x1002e8f4",
+        "index": 24
+    },
+    {
+        "log": "1133287800 2005.11.29 R63-M0-N0-I:J18-U11 RAS APP ciod: Error creating node map from file my_map.txt: Argument list too long",
+        "index": 26
+    },
+    {
+        "log": "1132270836 2005.11.17 R42-M1-N8-I:J18-U11 RAS KERNEL ciod: Error opening node map file map.dat, No such file or directory",
+        "index": 27
+    },
+    {
+        "log": "1132234278 2005.11.17 R36-M1 NULL HARDWARE PrepareForService is being done on this Midplane (mLctn(R36-M1), mCardSernum(203937503631353900000000594c31304b34333133303058), iWhichCardsToPwrOff(502)) by root",
+        "index": 31
+    },
+    {
+        "log": "1117961704 2005.06.05 R11-M0-NB-C:J07-U11 RAS KERNEL guaranteed instruction cache block touch.0",
+        "index": 32
+    },
+    {
+        "log": "1121814762 2005.07.19 R35-M1-N0-I:J18-U11 RAS KERNEL ciod: Error opening node map file /home/williams/miranda/src/vx_32k_256x256x1_8x4x4.map, No such file or directory",
+        "index": 33
+    },
+    {
+        "log": "1124121524 2005.08.15 R53-M0-N4-I:J18-U11 RAS APP ciod: Error loading /home/chcham/presta-1.3.2b/com: invalid or missing program image, No such file or directory",
+        "index": 38
+    },
+    {
+        "log": "1125552513 2005.08.31 R00-M0-NC-I:J18-U11 RAS KERNEL Lustre mount FAILED : bglio11 : point /p/gb1",
+        "index": 39
+    },
+    {
+        "log": "1117838840 2005.06.03 R27-M1-L3-U18-C RAS LINKCARD MidplaneSwitchController performing bit sparing on R27-M1-L3-U18-C bit 3",
+        "index": 41
+    },
+    {
+        "log": "1119320358 2005.06.20 R16-M1-N2-C:J17-U01 RAS KERNEL ddr: Unable to steer rank=0, symbol=0 - rank is already steering symbol 2. Due to multiple symbols being over the correctable e",
+        "index": 43
+    },
+    {
+        "log": "1120866509 2005.07.08 R02-M0-N4-C:J12-U01 RAS KERNEL rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, type=2, cpu=72, index=0, total=0",
+        "index": 45
+    },
+    {
+        "log": "1121383222 2005.07.14 R00-M0-NC-I:J18-U11 RAS APP ciod: Error creating node map from file /home/pakin1/sweep3d-2.2b/results/random1-8x32x32x2.map: Permission denied",
+        "index": 46
+    },
+    {
+        "log": "1129621382 2005.10.18 R30-M0-N7-C:J08-U01 RAS KERNEL ddr: redundant bit steering failed, sequencer timeout",
+        "index": 48
+    },
+    {
+        "log": "1121720768 2005.07.18 R37-M0-N9-C:J12-U01 RAS KERNEL rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, type=3635, cpu=16, index=572951614, total=269101864",
+        "index": 49
+    },
+    {
+        "log": "1117839710 2005.06.03 R16-M1-N2-C:J17-U01 RAS KERNEL CE sym 0, at 0x0b8580c0, mask 0x10",
+        "index": 51
+    },
+    {
+        "log": "1121408292 2005.07.14 R36-M0-N8-I:J18-U11 RAS APP ciod: Error creating node map from file /p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map: Bad address",
+        "index": 52
+    },
+    {
+        "log": "1118231330 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL max number of outstanding prefetches.....7",
+        "index": 53
+    },
+    {
+        "log": "1119973994 2005.06.28 R02-M1-N5-C:J09-U11 RAS KERNEL Target=ido://FF:F2:9F:16:E8:1A:00:0D:60:E9:17:E5/JTAG/0 Message=Invalid JtagId = ffffffff",
+        "index": 54
+    },
+    {
+        "log": "1117970583 2005.06.05 R22-M0-NE-C:J13-U01 RAS KERNEL rts internal error",
+        "index": 55
+    },
+    {
+        "log": "1121796983 2005.07.19 R07-M1-N4-I:J18-U11 RAS APP ciod: Error creating node map from file ./map-xyzt-8x8x16x1-2-mid: No child processes",
+        "index": 56
+    },
+    {
+        "log": "1117961706 2005.06.05 R11-M0-NB-C:J07-U11 RAS KERNEL lr:003625f0 cr:20000000 xer:00000002 ctr:0037f084",
+        "index": 57
+    },
+    {
+        "log": "1117840660 2005.06.03 R26-M0-NC-I:J18-U11 RAS APP ciod: Error loading /p/gb2/stella/RAPTOR/65641/raptor: invalid or missing program image, No such file or directory",
+        "index": 59
+    },
+    {
+        "log": "1118231335 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL memory manager strobe gate.......................0",
+        "index": 60
+    },
+    {
+        "log": "1132271397 2005.11.17 R65-M0-N4-I:J18-U01 RAS KERNEL ciod: generated 1 core files for program /g/g23/baker59/bgl/ulriketests/llap_ij",
+        "index": 61
+    },
+    {
+        "log": "1121716547 2005.07.18 R32-M0-N8-C:J04-U01 RAS KERNEL rts: kernel terminated for reason 1002rts: bad message header: too many packets, type=0, cpu=0, index=4096, total=3462, max=366",
+        "index": 62
+    },
+    {
+        "log": "1121261252 2005.07.13 R20-M1-N0-I:J18-U01 RAS APP ciod: Error loading /home/glosli/src/ddcMD/ddcMD1.1.14/bin/ddcMDbglV: invalid or missing program image, Exec format error",
+        "index": 63
+    },
+    {
+        "log": "1120153340 2005.06.30 R26-M0-NB-C:J07-U01 RAS KERNEL ddr: Unable to steer rank=0, symbol=10 - rank is already steering symbol 255. Due to multiple symbols being over the correctabl",
+        "index": 64
+    },
+    {
+        "log": "1132230153 2005.11.17 R36-M1-N0-C:J16-U11 RAS KERNEL Floating Point Status and Control Register: 0x00000000",
+        "index": 65
+    },
+    {
+        "log": "1120944043 2005.07.09 R05-M1-N3-C:J10-U11 RAS APP Torus non-recoverable error DCRs follow.",
+        "index": 66
+    },
+    {
+        "log": "1133637427 2005.12.03 R65-M0-N4-I:J18-U01 RAS KERNEL ciod: generated 1 core files for program /g/g23/antypas1/bgl_F3/12.3.2005/FLASH3/StirTurbPnet/flash3",
+        "index": 68
+    },
+    {
+        "log": "1128508766 2005.10.05 R77-M0-N0-I:J18-U11 RAS APP ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/VNM/64K/vnm.rts: invalid or missing program image, Permission denied",
+        "index": 70
+    },
+    {
+        "log": "1132600018 2005.11.21 R31-M0-N4-I:J18-U01 RAS APP ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41739, Connection timed out",
+        "index": 71
+    },
+    {
+        "log": "1117961700 2005.06.05 R11-M0-NB-C:J07-U11 RAS KERNEL instruction plb error.............0",
+        "index": 74
+    },
+    {
+        "log": "1120591342 2005.07.05 R35-M1-N0-I:J18-U11 RAS APP ciod: Error creating node map from file /home/auselton/bgl/64mps.sequential.mapfile: Resource temporarily unavailable",
+        "index": 77
+    },
+    {
+        "log": "1123194861 2005.08.04 R06-M0-S NULL DISCOVERY Problem reading the ethernet arl entries fro the service card: java.lang.IllegalStateException: while executing I2C Operation caught java.lang.RuntimeException: Communication error: (DirectIDo for com.ibm.ido.DirectIDo object [FF:F2:9F:15:1F:26:00:0D:60:EA:E0:D9@/10.0.2.110:0 with image version 9 and card type 2] is in state = COMMUNICATION_ERROR, sequenceNumberIsOk = false, ExpectedSequenceNumber = 7137, Reply Sequence Number = -1, timedOut = true, retries = 200, timeout = 1000, Expected Op Command = 2, Actual Op Reply = -1, Expected Sync Command = 32, Actual Sync Reply = -1)",
+        "index": 78
+    },
+    {
+        "log": "1135631112 2005.12.26 R42-M0-NC-I:J18-U11 RAS KERNEL ciod: for node 30, incomplete data written to core file core.894",
+        "index": 79
+    },
+    {
+        "log": "1120227270 2005.07.01 UNKNOWN_LOCATION NULL HARDWARE EndServiceAction is restarting the LinkCards in midplane R07-M1 as part of Service Action 236",
+        "index": 82
+    },
+    {
+        "log": "1132234418 2005.11.17 R36-M1 NULL HARDWARE EndServiceAction is restarting the Node cards in Midplane R36-M1 as part of Service Action 581",
+        "index": 83
+    },
+    {
+        "log": "1132230154 2005.11.17 R36-M1-N0-C:J16-U11 RAS KERNEL invalid operation exception summary......0",
+        "index": 84
+    },
+    {
+        "log": "1123104993 2005.08.03 UNKNOWN_LOCATION NULL DISCOVERY Missing reverse cable: Cable R23-M1-L1 1 F (J04) --> R43-M0-L1 1 C (J06) is present BUT the reverse cable R43-M0-L1 4 F (J12) --> R23-M1-L1 4 C (J14) is missing",
+        "index": 87
+    },
+    {
+        "log": "1133409270 2005.11.30 R77-M0-N0-I:J18-U11 RAS APP ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory",
+        "index": 88
+    },
+    {
+        "log": "1119412431 2005.06.21 R12-M1-NA-C:J04-U01 RAS KERNEL critical input interrupt (unit=0x0b bit=0x17): warning for tree C1 wire",
+        "index": 89
+    },
+    {
+        "log": "1120944043 2005.07.09 R05-M1-N3-C:J10-U11 RAS APP external input interrupt (unit=0x02 bit=0x00): uncorrectable torus error",
+        "index": 91
+    },
+    {
+        "log": "1132234367 2005.11.17 NULL RAS KERNEL Power Good signal deactivated: R73-M1-N5. A service action may be required.",
+        "index": 94
+    },
+    {
+        "log": "1118231337 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL uncorrectable error...0",
+        "index": 95
+    },
+    {
+        "log": "1132230155 2005.11.17 R36-M1-N0-C:J16-U11 RAS KERNEL fraction rounded.........................0",
+        "index": 96
+    },
+    {
+        "log": "1123170602 2005.08.04 UNKNOWN_LOCATION NULL DISCOVERY While initializing service card iDo with LP of FF:F2:9F:15:1F:35:00:0D:60:EA:E0:CA caught java.io.IOException: Could not contact iDo with LP=FF:F2:9F:15:1F:35:00:0D:60:EA:E0:CA and IP=/10.1.1.9 because java.lang.RuntimeException: Communication error: (DirectIDo for Uninitialized DirectIDo for FF:F2:9F:15:1F:35:00:0D:60:EA:E0:CA@/10.1.1.9:0 is in state = COMMUNICATION_ERROR, sequenceNumberIsOk = false, ExpectedSequenceNumber = 0, Reply Sequence Number = -1, timedOut = true, retries = 200, timeout = 1000, Expected Op Command = 5, Actual Op Reply = -1, Expected Sync Command = 10, Actual Sync Reply = -1)",
+        "index": 97
+    },
+    {
+        "log": "1121795737 2005.07.19 NULL RAS BGLMASTER ciodb exited normally with exit code 0",
+        "index": 98
+    },
+    {
+        "log": "1132230153 2005.11.17 R36-M1-N0-C:J16-U11 RAS KERNEL msr=0x00003000 dear=0x00000000 esr=0x00000000 fpscr=0x00000000",
+        "index": 99
+    },
+    {
+        "log": "1123361562 2005.08.06 R25 NULL HARDWARE PrepareForService is being done on this rack (R25) by orbeck1",
+        "index": 100
+    },
+    {
+        "log": "1132169233 2005.11.16 R46-M1-NC-I:J18-U11 RAS APP ciod: Error creating node map from file map.dat: Bad address",
+        "index": 103
+    },
+    {
+        "log": "1128025586 2005.09.29 R35-M1-N0-I:J18-U11 RAS APP ciod: Error loading /home/spelce1/HPCC_IBM/TomAndJeff/bin/untested_vnm/untested_vnm.rts: invalid or missing program image, Permission denied",
+        "index": 104
+    },
+    {
+        "log": "1118171599 2005.06.07 R00-M0-N4-I:J18-U11 RAS KERNEL ciod: cpu 0 at treeaddr 96 sent unrecognized message 0xffffffff",
+        "index": 105
+    },
+    {
+        "log": "1121356781 2005.07.14 R02-M1-N0-I:J18-U11 RAS KERNEL ciod: T coordinate 1 exceeds physical dimension 1 at line 3 of node map file /p/gb2/pakin1/sweep3d-5x5x400-1mk-1mmi-1024vpes-random1/random1-8x8x8x2.map",
+        "index": 106
+    },
+    {
+        "log": "1123018799 2005.08.02 UNKNOWN_LOCATION NULL DISCOVERY New ido chip inserted into the database: FF:F2:9F:15:1E:39:00:0D:60:EA:E1:C6 ip=0.0.0.0 v=9 t=2",
+        "index": 107
+    },
+    {
+        "log": "1120908839 2005.07.09 R35-M1-N0-I:J18-U11 RAS APP ciod: Error creating node map from file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-sweep/sweep.map: Device or resource busy",
+        "index": 108
+    },
+    {
+        "log": "1120912247 2005.07.09 R30-M0-N6-C:J08-U11 RAS KERNEL rts: kernel terminated for reason 1002rts: bad message header: too many packets, type=0, cpu=0, index=1207960132, total=10927668",
+        "index": 109
+    },
+    {
+        "log": "1120910570 2005.07.09 R02-M1-N0-I:J18-U11 RAS APP ciod: Error creating node map from file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-xyzt/xyzt.map: Permission denied",
+        "index": 110
+    },
+    {
+        "log": "1118231333 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL parity error in bank 0.........................0",
+        "index": 111
+    },
+    {
+        "log": "1132230151 2005.11.17 R36-M1-N0-C:J16-U11 RAS KERNEL r00=0x00003000 r01=0x00088850 r02=0x1eeeeeee r03=0x0000ef18",
+        "index": 112
+    },
+    {
+        "log": "1119319450 2005.06.20 R10-M0-N0-I:J18-U11 RAS APP ciod: Error creating node map from file /p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map: No child processes",
+        "index": 113
+    },
+    {
+        "log": "1123109324 2005.08.03 NULL RAS MMCS idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)",
+        "index": 114
+    },
+    {
+        "log": "1117961704 2005.06.05 R11-M0-NB-C:J07-U11 RAS KERNEL icache prefetch depth....................0",
+        "index": 115
+    },
+    {
+        "log": "1118231337 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL capture valid.........1",
+        "index": 116
+    },
+    {
+        "log": "1119975388 2005.06.28 R22-M0-NC-I:J18-U11 RAS KERNEL MailboxMonitor::serviceMailboxes() lib_ido_error: -1019 socket closed",
+        "index": 118
+    },
+    {
+        "log": "1120871252 2005.07.08 R22-M0-L0-U22-D RAS LINKCARD MidplaneSwitchController::parityAlignment() pap failed: R22-M0-L0-U22-D, status=00000000 00000000",
+        "index": 123
+    },
+    {
+        "log": "1120230253 2005.07.01 R03-M0-NE NULL HARDWARE PrepareForService shutting down NodeCard(mLctn(R03-M0-NE), mCardSernum(203231503833343000000000594c31304b34323837303244), mLp(FF:F2:9F:16:E5:17:00:0D:60:E9:1A:E8), mIp(10.0.1.0), mType(4)) as part of Service Action 242",
+        "index": 127
+    },
+    {
+        "log": "1119510511 2005.06.23 R25-M0-N4-I:J18-U11 RAS APP ciod: LOGIN chdir(/p/gb2/cjmundy/RUN_MED) failed: Permission denied",
+        "index": 129
+    },
+    {
+        "log": "1119994105 2005.06.28 R07-M1-L1-U19-E RAS LINKCARD MidplaneSwitchController::sendTrain() port disconnected: R07-M1-L1-U19-E",
+        "index": 130
+    },
+    {
+        "log": "1117961706 2005.06.05 R11-M0-NB-C:J07-U11 RAS KERNEL special purpose registers:",
+        "index": 131
+    },
+    {
+        "log": "1132234404 2005.11.17 R77-M0-NC-I:J18-U11 RAS APP ciod: Error reading message prefix on CioStream socket to 172.16.96.116:43572, Link has been severed",
+        "index": 133
+    },
+    {
+        "log": "1120591323 2005.07.05 R35-M1-N0-I:J18-U11 RAS KERNEL ciod: Missing or invalid fields on line 1 of node map file /home/auselton/bgl/64mps.sequential.mapfile",
+        "index": 134
+    },
+    {
+        "log": "1118769988 2005.06.14 R26-M0-NB-C:J09-U11 RAS KERNEL data store interrupt caused by dcbf.........0",
+        "index": 136
+    },
+    {
+        "log": "1120673475 2005.07.06 NULL RAS KERNEL Power deactivated: R05-M0-N4",
+        "index": 137
+    },
+    {
+        "log": "1119457525 2005.06.22 R30-M0-N4-I:J18-U11 RAS APP ciod: Error creating node map from file /p/gb2/draeger/benchmark/dat16k_062205/map16k_bipartyz: Cannot allocate memory",
+        "index": 138
+    },
+    {
+        "log": "1124176420 2005.08.16 R70-M0-N6-C:J02-U11 RAS KERNEL rts: bad message header: cpu 8 invalid (softheader=08040031 01020000 1007cda0 1006ac98) PSR0=00000000 PSR1=00000000 PRXF=0000002a PIXF=00000007",
+        "index": 140
+    },
+    {
+        "log": "1126021774 2005.09.06 R62-M0-NC-I:J18-U11 RAS APP ciod: Error loading /home/bertsch2/src/sppm_core/run/sppm: program image too big, 1663615088 > 532152320",
+        "index": 142
+    },
+    {
+        "log": "1132234897 2005.11.17 R73-M1-N5-C:J09-U11 RAS KERNEL Target=ido://FF:F2:9F:16:D5:01:00:0D:60:E9:2A:FE/JTAG/0 Message=Invalid JtagId = ffffffff Run environmental monitor to diagnose possible hardware failure.",
+        "index": 143
+    },
+    {
+        "log": "1123258319 2005.08.05 R54-M1-N8-I:J18-U01 RAS APP ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:52716: Link has been severed",
+        "index": 146
+    },
+    {
+        "log": "1121359878 2005.07.14 R03-M1-N8-I:J18-U11 RAS APP ciod: Error creating node map from file /home/pakin1/sweep3d-2.2b/results/xyzt-8x8x8x2.map: Block device required",
+        "index": 147
+    },
+    {
+        "log": "1119415930 2005.06.21 - KERNEL FATAL job 20251 timed out. Block freed.",
+        "index": 148
+    },
+    {
+        "log": "1123460898 2005.08.07 R56-M1-L3-U22-C RAS LINKCARD MidplaneSwitchController::parityAlignment() pap failed: R56-M1-L3-U22-C, status=dfffffff fffffd80",
+        "index": 150
+    },
+    {
+        "log": "1134150657 2005.12.09 R55-M1-N3-C:J06-U11 RAS KERNEL fpr18=0xfffffebc 408fffff 3e575140 c007d3cb",
+        "index": 151
+    },
+    {
+        "log": "1125665634 2005.09.02 R63-M1-NC-I:J18-U11 RAS APP ciod: LOGIN chdir(/bglscratch/bwallen/SWL/SYS-CALLS/testcases/kernel/syscalls/brk) failed: No such file or directory",
+        "index": 153
+    },
+    {
+        "log": "1132230135 2005.11.17 R36-M1-N0-C:J16-U11 RAS KERNEL Machine State Register: 0x00003000",
+        "index": 154
+    },
+    {
+        "log": "1117961701 2005.06.05 R11-M0-NB-C:J07-U11 RAS KERNEL critical input interrupt enable...0",
+        "index": 155
+    },
+    {
+        "log": "1124131873 2005.08.15 R54-M1-N0-I:J18-U11 RAS APP ciod: Error creating node map from file /home/auselton/bgl/mapfiles/bgl.128mps.f64.map: Resource temporarily unavailable",
+        "index": 157
+    },
+    {
+        "log": "1130092920 2005.10.23 R55-M0-Nd-C:J08-U01 RAS MMCS L3 major internal error",
+        "index": 159
+    },
+    {
+        "log": "1128281225 2005.10.02 R62-M0-N4-C:J13-U01 RAS KERNEL floating point unavailable interrupt",
+        "index": 163
+    },
+    {
+        "log": "1120260129 2005.07.01 R02-M1-N5-C:J09-U11 RAS KERNEL rts: kernel terminated for reason 1004rts: bad message header: expecting type 1, type=3, cpu=0, index=0, total=1",
+        "index": 164
+    },
+    {
+        "log": "1132699963 2005.11.22 R02-M0-N6-C:J16-U01 RAS KERNEL Exception Syndrome Register: 0x00800000",
+        "index": 165
+    },
+    {
+        "log": "1132230156 2005.11.17 R36-M1-N0-C:J16-U11 RAS KERNEL plus denormalized number.................0",
+        "index": 166
+    },
+    {
+        "log": "1118231329 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL start retagging..........................0",
+        "index": 167
+    },
+    {
+        "log": "1132230156 2005.11.17 R36-M1-N0-C:J16-U11 RAS KERNEL minus normalized number..................0",
+        "index": 168
+    },
+    {
+        "log": "1118231335 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL memory manager store buffer parity...............0",
+        "index": 171
+    },
+    {
+        "log": "1121367857 2005.07.14 R02-M1-N0-I:J18-U11 RAS KERNEL ciod: Error opening node map file /home/pakin1/sweep3d-2.2b/results/sweep-8x8x8x1.map, No such file or directory",
+        "index": 172
+    },
+    {
+        "log": "1130529607 2005.10.28 R63-M1-N7-C:J09-U11 RAS KERNEL Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007",
+        "index": 173
+    },
+    {
+        "log": "1131395288 2005.11.07 R63-M0-L2 NULL MONITOR Temperature Over Limit on link card",
+        "index": 174
+    },
+    {
+        "log": "1118231338 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL DDR failing address register: 0x00000008 0x0d552040",
+        "index": 175
+    },
+    {
+        "log": "1131048768 2005.11.03 R63-M0-N0-I:J18-U11 RAS APP ciod: Error loading /p/gb1/bmiller/CALTECH/test/mdcask.opt: program image too big, 934668496 > 532152320",
+        "index": 176
+    },
+    {
+        "log": "1129297269 2005.10.14 R36-M1-N5-C:J17-U11 RAS KERNEL Error sending packet on tree network, packet at address 00088480 is not aligned",
+        "index": 177
+    },
+    {
+        "log": "1119680121 2005.06.24 R26-M0-NB-C:J07-U01 RAS KERNEL ddr: Unable to steer rank=0, symbol=10 - rank is already steering symbol 8. Due to multiple symbols being over the correctable",
+        "index": 178
+    },
+    {
+        "log": "1123031132 2005.08.02 NULL RAS BGLMASTER idoproxy exited normally with exit code 0",
+        "index": 179
+    },
+    {
+        "log": "1123914001 2005.08.12 R56-M1-N4-I:J18-U11 RAS APP ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error",
+        "index": 180
+    },
+    {
+        "log": "1118231336 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL memory manager / command manager address parity..0",
+        "index": 181
+    },
+    {
+        "log": "1128074884 2005.09.30 R10-M0-NC-I:J18-U11 RAS APP ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/Gunnels/COP16/vnm.rts: invalid or missing program image, Permission denied",
+        "index": 182
+    },
+    {
+        "log": "1125551063 2005.08.31 NULL RAS MMCS mmcs_db_server has been started: ./mmcs_db_server --useDatabase BGL --dbproperties serverdb.properties --iolog /bgl/BlueLight/logs/BGL --reconnect-blocks all --no-reconnect-blocks",
+        "index": 183
+    },
+    {
+        "log": "1118073983 2005.06.06 R22-M0-N8-I:J18-U11 RAS KERNEL ciod: pollControlDescriptors: Detected the debugger died.",
+        "index": 184
+    },
+    {
+        "log": "1119280668 2005.06.20 UNKNOWN_LOCATION NULL DISCOVERY BglIdoChip table has 2 IDOs with the same IP address (10.0.1.8)",
+        "index": 186
+    },
+    {
+        "log": "1118770267 2005.06.14 R26-M0-NB-C:J09-U11 RAS KERNEL byte ordering exception.....................0",
+        "index": 187
+    },
+    {
+        "log": "1133517015 2005.12.02 R05-M1-NA-C:J08-U01 RAS KERNEL fpr13=0x000c9000 408fffff fffffffe fffffffc",
+        "index": 188
+    },
+    {
+        "log": "1120227007 2005.07.01 R07-M1 NULL HARDWARE PrepareForService is being done on this Midplane (mLctn(R07-M1), mCardSernum( 203937503631353900000000594c31304b34323635303343)) by root",
+        "index": 189
+    },
+    {
+        "log": "1119320359 2005.06.20 R16-M1-N2-C:J17-U01 RAS KERNEL rror threshold, consider replacing the card",
+        "index": 190
+    },
+    {
+        "log": "1134080841 2005.12.08 R63-M0-N0-I:J18-U11 RAS APP ciod: Error loading /g/g0/dahn/BGL_Test_Shots/functional_testing.20051122/testcases/ubgl_llnl_gov/sppm/sppm/run/token_ring_mpi: invalid or missing program image, No such file or directory",
+        "index": 191
+    },
+    {
+        "log": "1133619175 2005.12.03 R47-M1-N4-C:J17-U11 RAS KERNEL ddr: Suppressing further CE interrupts",
+        "index": 193
+    },
+    {
+        "log": "1125701264 2005.09.02 R63-M0-L2 NULL HARDWARE EndServiceAction 410 was performed upon R63-M0-L2 by root",
+        "index": 194
+    },
+    {
+        "log": "1118231333 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL uncorrectable error detected in external DDR...1",
+        "index": 195
+    },
+    {
+        "log": "1118928543 2005.06.16 R14-M1-ND-C:J16-U11 RAS KERNEL external input interrupt (unit=0x01 bit=0x09): number of corrected SRAM errors has exceeded threshold",
+        "index": 196
+    },
+    {
+        "log": "1117838570 2005.06.03 R02-M1-N0-C:J12-U11 RAS KERNEL instruction cache parity error corrected",
+        "index": 198
+    },
+    {
+        "log": "1123030686 2005.08.02 R00-M0-N8 NULL DISCOVERY Found invalid node ecid in processor card slot J02, ecid 0000000000000000000000000000",
+        "index": 200
+    },
+    {
+        "log": "1121811354 2005.07.19 R10-M0-N0-I:J18-U11 RAS KERNEL ciod: Error opening node map file /home/williams/miranda/src/res-apc-strong2-bgl-8192-8Kmap-15:12:18Tue19Jul05/../sles_9_ppc64/mapfile/8k_64x128x1_8x4x2.map, No such file or directory",
+        "index": 201
+    },
+    {
+        "log": "1117961702 2005.06.05 R11-M0-NB-C:J07-U11 RAS KERNEL floating point instr. enabled.....1",
+        "index": 205
+    },
+    {
+        "log": "1117839843 2005.06.03 R23-M0-NF-C:J12-U01 RAS KERNEL generating core.1",
+        "index": 207
+    },
+    {
+        "log": "1133645260 2005.12.03 R77-M0-N0-I:J18-U11 RAS APP ciod: LOGIN chdir(/p/gb/rfisher/StirTurbDirect/16) failed: No such file or directory",
+        "index": 209
+    },
+    {
+        "log": "1131503816 2005.11.08 R60-M1-N4-I:J18-U11 RAS KERNEL ciod: generated 1 core files for program /g/g0/dbremer/src/visus/src/libvisus/.bgl-local-gcc/selftest_idx_io",
+        "index": 210
+    },
+    {
+        "log": "1120183079 2005.06.30 R05-M1-N0-I:J18-U11 RAS KERNEL shutdown complete",
+        "index": 211
+    },
+    {
+        "log": "1132329481 2005.11.18 R03-M1-N7 NULL MONITOR monitor caught java.lang.IllegalStateException: while executing CONTROL Operation caught java.io.EOFException and is stopping",
+        "index": 212
+    },
+    {
+        "log": "1120912242 2005.07.09 R30-M0-N9-C:J12-U01 RAS KERNEL rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, type=13094, cpu=16, index=2531006536, total=26910350",
+        "index": 215
+    },
+    {
+        "log": "1125552513 2005.08.31 R00-M0-N4-I:J18-U11 RAS KERNEL Lustre mount FAILED : bglio3 : point /p/gb1",
+        "index": 217
+    },
+    {
+        "log": "1127108611 2005.09.18 R40-M1-NC-I:J18-U11 RAS APP ciod: Error loading /home/spelce1/HPCC_IBM/TomAndJeff/bin/tested_copro/tested_copro.rts: invalid or missing program image, Permission denied",
+        "index": 218
+    },
+    {
+        "log": "1132230156 2005.11.17 R36-M1-N0-C:J16-U11 RAS KERNEL plus zero................................0",
+        "index": 219
+    },
+    {
+        "log": "1126113139 2005.09.07 R63-M0-L2 NULL HARDWARE EndServiceAction 416 was performed upon R63-M0-L2 by pjmccart",
+        "index": 221
+    },
+    {
+        "log": "1120232220 2005.07.01 R26-M0-N0 NULL HARDWARE PrepareForService is being done on this part (mLctn(R26-M0-N0), mCardSernum(203231503833343000000000594c31304b35303035303143), mLp(FF:F2:9F:16:BE:7A:00:0D:60:E9:41:85), mIp(10.2.3.7), mType(4)) by root",
+        "index": 222
+    },
+    {
+        "log": "1127185029 2005.09.19 R62-M0-NC-I:J18-U11 RAS KERNEL ciod: generated 64 core files for program /home/yates/rky-swl/MPI-VAL/MPITs_v050902_bis/MPITs_func_tests_cmc_brdes_050902/mpits_parallel_dirs/CO/big_coll/doe_mpits/test_cases/big_coll/reduce_scatter",
+        "index": 223
+    },
+    {
+        "log": "1118697649 2005.06.13 R15-M0-N8-I:J18-U01 RAS APP ciod: LOGIN chdir(/p/gb2/draeger/benchmark/testQboxhang) failed: No such file or directory",
+        "index": 224
+    },
+    {
+        "log": "1119482089 2005.06.22 R22-M0-NF-C:J16-U01 RAS KERNEL 3 floating point alignment exceptions",
+        "index": 225
+    },
+    {
+        "log": "1120801787 2005.07.07 R03-M0-N4-I:J18-U11 RAS APP ciod: LOGIN chdir(/p/gb2/spelce/Raptor_run/) failed: No such file or directory",
+        "index": 226
+    },
+    {
+        "log": "1132230153 2005.11.17 R36-M1-N0-C:J16-U11 RAS KERNEL Special Purpose Registers:",
+        "index": 227
+    },
+    {
+        "log": "1118678920 2005.06.13 UNKNOWN_LOCATION NULL CMCS Running as background command",
+        "index": 228
+    },
+    {
+        "log": "1118231331 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL capture first directory uncorrectable error address..0",
+        "index": 229
+    },
+    {
+        "log": "1130251358 2005.10.25 R77-M0-N0-I:J18-U11 RAS APP ciod: Error loading allreduce_double_V1R1.rts: invalid or missing program image, No such file or directory",
+        "index": 231
+    },
+    {
+        "log": "1118231332 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL correctable error detected in directory 0......0",
+        "index": 233
+    },
+    {
+        "log": "1118231332 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL correctable error detected in EDRAM bank 0.....0",
+        "index": 234
+    },
+    {
+        "log": "1123360986 2005.08.06 R41-M1-NA NULL HARDWARE PrepareForService is being done on this part (mLctn(R41-M1-NA), mCardSernum(203231503833343000000000594c31304b35303138303158), mLp(FF:F2:9F:16:B7:A0:00:0D:60:E9:48:5F), mIp(10.4.1.164), mType(4)) by orbeck1",
+        "index": 235
+    },
+    {
+        "log": "1134159210 2005.12.09 R63-M0-N0-I:J18-U11 RAS APP ciod: Error loading /p/gb1/stella/RAPTOR/1419/raptor: invalid or missing program image, Permission denied",
+        "index": 238
+    },
+    {
+        "log": "1121124960 2005.07.11 R24-M1-NB-C:J04-U01 RAS KERNEL rts: kernel terminated for reason 1002rts: bad message header: too many packets, type=32796, cpu=0, index=2214748, total=0, max=",
+        "index": 239
+    },
+    {
+        "log": "1131060630 2005.11.03 R63-M0-N0-I:J18-U11 RAS APP ciod: Error loading /p/gb1/bmiller/CALTECH/BGLcode/test/mdcask.opt: program image too big, 470899952 > 266076160",
+        "index": 240
+    },
+    {
+        "log": "1123112338 2005.08.03 R05-M1-N2-C:J15-U01 RAS KERNEL VALIDATE_LOAD_IMAGE_CRC_IN_DRAM",
+        "index": 241
+    },
+    {
+        "log": "1132341192 2005.11.18 R04-M0-N0-I:J18-U11 RAS APP ciod: Error loading -mode VN: invalid or missing program image, No such file or directory",
+        "index": 243
+    },
+    {
+        "log": "1130107628 2005.10.23 UNKNOWN_LOCATION NULL DISCOVERY Problem communicating with node card, iDo machine with LP of FF:F2:9F:16:B8:74:00:0D:60:E9:47:8B caught java.lang.IllegalStateException: while executing I2C Operation caught java.lang.RuntimeException: Communication error: (DirectIDo for com.ibm.ido.DirectIDo object [FF:F2:9F:16:B8:74:00:0D:60:E9:47:8B@/10.5.0.150:0 with image version 13 and card type 4] is in state = COMMUNICATION_ERROR, sequenceNumberIsOk = false, ExpectedSequenceNumber = 72, Reply Sequence Number = -1, timedOut = true, retries = 200, timeout = 1000, Expected Op Command = 2, Actual Op Reply = -1, Expected Sync Command = 32, Actual Sync Reply = -1)",
+        "index": 244
+    },
+    {
+        "log": "1133977509 2005.12.07 R00-M0-N0-I:J18-U11 RAS KERNEL ciod: generated 1 core files for program /g/g0/auselton/bgl/mib",
+        "index": 245
+    },
+    {
+        "log": "1128429005 2005.10.04 R77-M0-N0-I:J18-U01 RAS KERNEL ciod: generated 3 core files for program /home/spelce1/HPCC_IBM/Urgent/VNM/32K/vnm.rts",
+        "index": 247
+    },
+    {
+        "log": "1117961706 2005.06.05 R11-M0-NB-C:J07-U11 RAS KERNEL rts panic! - stopping execution",
+        "index": 248
+    },
+    {
+        "log": "1130140276 2005.10.24 R35-M1-N0-I:J18-U11 RAS APP ciod: Error loading ./ddcMDbglV: invalid or missing program image, Permission denied",
+        "index": 249
+    },
+    {
+        "log": "1131408097 2005.11.07 R62-M0-NC-I:J18-U11 RAS APP ciod: Error loading /p/gb1/ikuo/SOURCE/cpmd.x: invalid or missing program image, No such file or directory",
+        "index": 250
+    },
+    {
+        "log": "1118231337 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL correctable error.....1",
+        "index": 251
+    },
+    {
+        "log": "1117961701 2005.06.05 R11-M0-NB-C:J07-U11 RAS KERNEL d-cache flush parity error........1",
+        "index": 252
+    },
+    {
+        "log": "1123856427 2005.08.12 NULL RAS BGLMASTER ciodb exited abnormally due to signal: Aborted",
+        "index": 254
+    },
+    {
+        "log": "1127264830 2005.09.20 R10-M0-NC-I:J18-U11 RAS APP ciod: Error loading /bgl/apps/SWL/performance/MINIBEN//bandwidth.rts: invalid or missing program image, No such file or directory",
+        "index": 259
+    },
+    {
+        "log": "1132318004 2005.11.18 R55-M0-N9-C:J06-U11 RAS KERNEL 1 torus sender x+ retransmission error(s) (dcr 0x02f4) detected and corrected over 601 seconds",
+        "index": 260
+    },
+    {
+        "log": "1120866509 2005.07.08 R24-M0-N8-C:J04-U01 RAS KERNEL rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, type=29819, cpu=167, index=1207960164, total=2691015",
+        "index": 261
+    },
+    {
+        "log": "1127772623 2005.09.26 R04-M0-NC-I:J18-U11 RAS KERNEL ciod: generated 1 core files for program /bgl/apps/SWL/stability/DDCMD//ddcMDbglV",
+        "index": 262
+    },
+    {
+        "log": "1121124509 2005.07.11 R24-M0-N4-C:J16-U01 RAS KERNEL rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, type=12344, cpu=127, index=268892392, total=26869484",
+        "index": 264
+    },
+    {
+        "log": "1118245894 2005.06.08 R33-M1-N6 NULL DISCOVERY Node card is not fully functional",
+        "index": 265
+    },
+    {
+        "log": "1123716052 2005.08.10 R45-M0-N6 NULL HARDWARE PrepareForService is being done on this part (mLctn(R45-M0-N6), mCardSernum(203231503833343000000000594c31304b34333432315346), mLp(FF:F2:9F:16:C3:B7:00:0D:60:E9:3C:48), mIp(10.4.2.4), mType(4)) by pjmccart",
+        "index": 266
+    },
+    {
+        "log": "1118245894 2005.06.08 R33-M1-N6 NULL DISCOVERY Can not get assembly information for node card",
+        "index": 268
+    },
+    {
+        "log": "1118231331 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL capture first DDR uncorrectable error address..0",
+        "index": 269
+    },
+    {
+        "log": "1117970578 2005.06.05 R22-M0-NE-C:J13-U01 RAS KERNEL data address: 0x4bffffa4",
+        "index": 270
+    },
+    {
+        "log": "1121465711 2005.07.15 R26-M0-N8-C:J12-U01 RAS KERNEL rts: kernel terminated for reason 1002rts: bad message header: too many packets, type=2, cpu=0, index=268680240, total=268680240",
+        "index": 272
+    },
+    {
+        "log": "1118231336 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL memory manager refresh contention................0",
+        "index": 273
+    },
+    {
+        "log": "1119971080 2005.06.28 R23-M0-N0-I:J18-U11 RAS APP ciod: LOGIN chdir(/bglscratch/bwallen/FULL_SWL/NEWS05) failed: No such file or directory",
+        "index": 275
+    },
+    {
+        "log": "1124721458 2005.08.22 R55-M1-NC-I:J18-U01 RAS APP ciod: LOGIN chdir(/home/germann2/SPaSM_static) failed: No such file or directory",
+        "index": 276
+    },
+    {
+        "log": "1119972857 2005.06.28 UNKNOWN_LOCATION NULL DISCOVERY Node card status: ALERT 0, ALERT 1, ALERT 2, ALERT 3 is (are) active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. TEMPERATURE MASK IS ACTIVE. No temperature error. Temperature Limit Error Latch is clear. PGOOD is asserted. PGOOD error latch is clear. MPGOOD is OK. MPGOOD error latch is clear. The 2.5 volt rail is OK. The 1.5 volt rail is OK.",
+        "index": 277
+    },
+    {
+        "log": "1117961701 2005.06.05 R11-M0-NB-C:J07-U11 RAS KERNEL imprecise machine check...........0",
+        "index": 278
+    },
+    {
+        "log": "1126211905 2005.09.08 R62-M1-NF-C:J09-U11 RAS KERNEL rts: bad message header: expecting type 5 instead of type 4 (softheader=001d22e8 ac8a0004 00000001 00000000) PSR0=00000f00 PSR1=00000000 PRXF=00000002 PIXF=00000007",
+        "index": 279
+    },
+    {
+        "log": "1118769851 2005.06.14 R26-M0-NB-C:J09-U11 RAS KERNEL floating point operation....................0",
+        "index": 280
+    },
+    {
+        "log": "1131395287 2005.11.07 R63-M0-L2 NULL MONITOR No power module U58 found found on link card",
+        "index": 283
+    },
+    {
+        "log": "1126980389 2005.09.17 R65 NULL HARDWARE EndServiceAction 427 performed upon R65 by pjmccart",
+        "index": 285
+    },
+    {
+        "log": "1132084779 2005.11.15 R00-M0-NC-I:J18-U11 RAS KERNEL idoproxy communication failure: socket closed",
+        "index": 286
+    },
+    {
+        "log": "1121272810 2005.07.13 R02-M1-N0-I:J18-U11 RAS APP ciod: Error loading aleamr.bgl-mpxlC-opt.3d.ex: invalid or missing program image, Exec format error",
+        "index": 287
+    },
+    {
+        "log": "1118231332 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL uncorrectable error detected in directory 0....0",
+        "index": 290
+    },
+    {
+        "log": "1126974832 2005.09.17 R63 NULL HARDWARE PrepareForService is being done on this rack (R63) by pjmccart",
+        "index": 291
+    },
+    {
+        "log": "1130834937 2005.11.01 R76-M0-N0-C:J06-U01 RAS KERNEL 0:afffffff 1:0fee9630 2:1eeeeeee 3:b1145000",
+        "index": 292
+    },
+    {
+        "log": "1118231338 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL 0x00000000 0x00000000",
+        "index": 293
+    },
+    {
+        "log": "1121213733 2005.07.12 NULL RAS BGLMASTER mmcs_server exited abnormally due to signal: Aborted",
+        "index": 298
+    },
+    {
+        "log": "1133588695 2005.12.02 R42-M1-NE-C:J03-U11 RAS KERNEL external input interrupt (unit=0x01 bit=0x09): number of corrected SRAM errors has exceeded threshold, suppressing further interrupts of same type",
+        "index": 299
+    },
+    {
+        "log": "1123614573 2005.08.09 R00-M0-N1-C:J15-U11 RAS KERNEL rts tree/torus link training failed: wanted: C X+ X- Y+ Y- Z+ Z- got: C X+ Y- Z-",
+        "index": 300
+    },
+    {
+        "log": "1120241056 2005.07.01 R15-M0-L0 NULL HARDWARE LinkCard is not fully functional",
+        "index": 301
+    },
+    {
+        "log": "1122649272 2005.07.29 R06-M1-NF NULL MONITOR monitor caught java.lang.UnsupportedOperationException: power module U69 not present and is stopping",
+        "index": 302
+    },
+    {
+        "log": "1132230159 2005.11.17 R36-M1-N0-C:J16-U11 RAS KERNEL Floating Point Registers:",
+        "index": 305
+    },
+    {
+        "log": "1117961700 2005.06.05 R11-M0-NB-C:J07-U11 RAS KERNEL d-cache search parity error.......0",
+        "index": 307
+    },
+    {
+        "log": "1117961700 2005.06.05 R11-M0-NB-C:J07-U11 RAS KERNEL tlb error.........................0",
+        "index": 308
+    },
+    {
+        "log": "1121467862 2005.07.15 R33-M1-N9-C:J03-U11 RAS KERNEL rts: kernel terminated for reason 1002rts: bad message header: too many packets, type=38336, cpu=0, index=2071784, total=2070380",
+        "index": 309
+    },
+    {
+        "log": "1126388869 2005.09.10 R63-M0-N9-C:J05-U01 RAS KERNEL external input interrupt (unit=0x03 bit=0x01): tree header with no target waiting",
+        "index": 310
+    },
+    {
+        "log": "1126104344 2005.09.07 R03-M0 NULL HARDWARE PrepareForService is being done on this Midplane (mLctn(R03-M0), mCardSernum( 203937503631353900000000594c31304b34323636303042)) by pjmccart",
+        "index": 313
+    },
+    {
+        "log": "1120173737 2005.06.30 R35-M1-N0-I:J18-U11 RAS KERNEL ciod: Error opening node map file /p/gb2/welcome3/32k_128x256x1_8x4x4.map, No such file or directory",
+        "index": 314
+    },
+    {
+        "log": "1123020796 2005.08.02 UNKNOWN_LOCATION NULL SERV_NET Added 8 subnets and 409600 addresses to DB",
+        "index": 317
+    },
+    {
+        "log": "1120866507 2005.07.08 R20-M0-NC-C:J16-U01 RAS KERNEL rts: kernel terminated for reason 1002rts: bad message header: too many packets, type=9, cpu=0, index=496270, total=1120866506,",
+        "index": 319
+    },
+    {
+        "log": "1123993661 2005.08.13 R30-M0-NA-C:J13-U01 RAS KERNEL rts: kernel terminated for reason 1001",
+        "index": 320
+    },
+    {
+        "log": "1132230154 2005.11.17 R36-M1-N0-C:J16-U11 RAS KERNEL underflow exception......................0",
+        "index": 321
+    },
+    {
+        "log": "1120231528 2005.07.01 R15-M0-L0 NULL HARDWARE LinkCard power module U58 is not accessible",
+        "index": 322
+    },
+    {
+        "log": "1132230137 2005.11.17 R36-M1-N0-C:J16-U11 RAS KERNEL Core Configuration Register 0: 0x00002000",
+        "index": 323
+    },
+    {
+        "log": "1132230154 2005.11.17 R36-M1-N0-C:J16-U11 RAS KERNEL inexact exception........................0",
+        "index": 324
+    },
+    {
+        "log": "1120242223 2005.07.01 R06-M0-N8-I:J18-U01 RAS KERNEL no ethernet link",
+        "index": 325
+    },
+    {
+        "log": "1118928543 2005.06.16 R14-M1-ND-C:J16-U11 RAS KERNEL suppressing further interrupts of same type",
+        "index": 326
+    },
+    {
+        "log": "1120240302 2005.07.01 R05-M0-NA NULL HARDWARE NodeCard is not fully functional",
+        "index": 327
+    },
+    {
+        "log": "1133597817 2005.12.03 R62-M0-NC-I:J18-U11 RAS KERNEL ciod: generated 1 core files for program /g/g0/dahn/testcases/parallel_debugger/parallel_dbg_target/mem_err/merr",
+        "index": 328
+    },
+    {
+        "log": "1135277730 2005.12.22 R62-M0-NC-I:J18-U11 RAS APP ciod: Error loading /p/gb1/kubota/Chamonix200/inferno: program image too big, 420576896 > 266076160",
+        "index": 329
+    },
+    {
+        "log": "1132230149 2005.11.17 R36-M1-N0-C:J16-U11 RAS KERNEL DDR failing info register: DDR Fail Info Register: 0x00000000",
+        "index": 330
+    },
+    {
+        "log": "1120753438 2005.07.07 R27-M1-N5-C:J02-U01 RAS KERNEL machine state register: machine state register: machine state register: machine state register: machine state register: machine",
+        "index": 331
+    },
+    {
+        "log": "1118231335 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL memory manager address parity error..............0",
+        "index": 332
+    },
+    {
+        "log": "1124148713 2005.08.15 R04-M0-N8-I:J18-U01 RAS KERNEL kernel panic",
+        "index": 333
+    },
+    {
+        "log": "1131145755 2005.11.04 R63-M0-N0-I:J18-U11 RAS KERNEL ciod: generated 64 core files for program /p/gb1/bmiller/CALTECH/test/mdcask.opt",
+        "index": 336
+    },
+    {
+        "log": "1118767373 2005.06.14 R25-M0-N3-C:J09-U11 RAS KERNEL program interrupt: illegal instruction......0",
+        "index": 337
+    },
+    {
+        "log": "1125827212 2005.09.04 R42-M1-N2-C:J08-U01 RAS KERNEL 371 torus sender sram ecc error(s) (dcr 0x02f2) detected and corrected",
+        "index": 338
+    },
+    {
+        "log": "1117957787 2005.06.05 R21-M1-N8-C:J10-U01 RAS KERNEL instruction address: 0x0000df30",
+        "index": 339
+    },
+    {
+        "log": "1123019408 2005.08.02 UNKNOWN_LOCATION NULL SERV_NET DeclareServiceNetworkCharacteristics has been run but the DB is not empty",
+        "index": 342
+    },
+    {
+        "log": "1118769782 2005.06.14 R26-M0-NB-C:J09-U11 RAS KERNEL program interrupt: trap instruction.........0",
+        "index": 343
+    },
+    {
+        "log": "1118231331 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL capture first EDRAM parity error address..0",
+        "index": 344
+    },
+    {
+        "log": "1132841269 2005.11.24 R03-M1-NF-C:J07-U01 RAS KERNEL machine check interrupt (bit=0x10): L2 dcache unit read return parity error",
+        "index": 345
+    },
+    {
+        "log": "1120806164 2005.07.08 R35-M1-N0-I:J18-U11 RAS APP ciod: Error loading /p/gb2/spelce1/raptor.dev.new3d.BGL.CXX_XL.MPI.ex: invalid or missing program image, No such file or directory",
+        "index": 346
+    },
+    {
+        "log": "1132329484 2005.11.18 R06-M0-NA NULL MONITOR Hardware monitor caught java.lang.IllegalStateException: while executing I2C Operation caught java.net.SocketException: Broken pipe and is stopping",
+        "index": 349
+    },
+    {
+        "log": "1117961704 2005.06.05 R11-M0-NB-C:J07-U11 RAS KERNEL general purpose registers:",
+        "index": 350
+    },
+    {
+        "log": "1118147576 2005.06.07 R17-M0-N1-C:J03-U01 RAS KERNEL machine check interrupt (bit=0x1d): L2 dcache unit data parity error",
+        "index": 353
+    },
+    {
+        "log": "1118353736 2005.06.09 R24-M1-N0-I:J18-U01 RAS APP ciod: Error loading /p/gb2/bmiller/miranda.tau: invalid or missing program image, No such file or directory",
+        "index": 357
+    },
+    {
+        "log": "1129820518 2005.10.20 R77-M0-N0-I:J18-U11 RAS APP ciod: Error loading /bgl/apps/followup/RAPTOR/new.raptor.trace: invalid or missing program image, Exec format error",
+        "index": 358
+    },
+    {
+        "log": "1118770558 2005.06.14 R26-M0-NB-C:J09-U11 RAS KERNEL program interrupt: fp cr field .............0",
+        "index": 359
+    },
+    {
+        "log": "1120153340 2005.06.30 R26-M0-NB-C:J07-U01 RAS KERNEL e error threshold, consider replacing the card",
+        "index": 360
+    },
+    {
+        "log": "1135402990 2005.12.23 R62-M0-N4-C:J13-U01 RAS KERNEL rts assertion failed: `vaddr % PAGE_SIZE_1M == 0' in `int initializeAppMemory(int, TLBEntry&, unsigned int, unsigned int)' at mmu.cc:540",
+        "index": 361
+    },
+    {
+        "log": "1117961699 2005.06.05 R11-M0-NB-C:J07-U11 RAS KERNEL machine check status register: 0x81000000",
+        "index": 362
+    },
+    {
+        "log": "1132584044 2005.11.21 R26-M0-N0-I:J18-U11 RAS KERNEL MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4)",
+        "index": 363
+    },
+    {
+        "log": "1135183373 2005.12.21 R63-M0-N8-I:J18-U01 RAS KERNEL ciod: generated 6 core files for program /g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.20.exe",
+        "index": 365
+    },
+    {
+        "log": "1118231333 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL parity error in read queue 0...................0",
+        "index": 369
+    },
+    {
+        "log": "1118231336 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL DDR failing info register: 0x8f401000",
+        "index": 370
+    },
+    {
+        "log": "1123630424 2005.08.09 R02-M1-NB-C:J15-U11 RAS KERNEL ddr: Unable to steer rank=0, symbol=5 - rank is already steering symbol 4. Due to multiple symbols being over the correctable error threshold, consider replacing the card",
+        "index": 372
+    },
+    {
+        "log": "1123031147 2005.08.02 NULL RAS BGLMASTER ciodb exited normally with exit code 15",
+        "index": 373
+    },
+    {
+        "log": "1121367857 2005.07.14 R02-M1-N0-I:J18-U11 RAS APP ciod: Error creating node map from file /home/pakin1/sweep3d-2.2b/results/sweep-8x8x8x1.map: Bad file descriptor",
+        "index": 374
+    },
+    {
+        "log": "1133287401 2005.11.29 R63-M0-N0-I:J18-U11 RAS APP ciod: Error creating node map from file my_map.txt: No such file or directory",
+        "index": 375
+    },
+    {
+        "log": "1123962622 2005.08.13 R77-M0-N0-I:J18-U11 RAS APP ciod: LOGIN chdir(pwd) failed: No such file or directory",
+        "index": 376
+    },
+    {
+        "log": "1125326676 2005.08.29 R51-M1-N0-I:J18-U11 RAS KERNEL CHECK_INITIAL_GLOBAL_INTERRUPT_VALUES",
+        "index": 378
+    },
+    {
+        "log": "1132230154 2005.11.17 R36-M1-N0-C:J16-U11 RAS KERNEL divide-by-zero exception.................0",
+        "index": 379
+    },
+    {
+        "log": "1132230152 2005.11.17 R36-M1-N0-C:J16-U11 RAS KERNEL r12=0x42000024 r13=0x1eeeeeee r14=0xffffffff r15=0xffffffff",
+        "index": 380
+    },
+    {
+        "log": "1122649272 2005.07.29 R06-M1-NF NULL MONITOR While inserting monitor info into DB caught java.lang.NullPointerException",
+        "index": 382
+    },
+    {
+        "log": "1119280286 2005.06.20 NULL RAS BGLMASTER BGLMaster has been started: ./BGLMaster --consoleip 127.0.0.1 --consoleport 32035 --configfile bglmaster.init",
+        "index": 383
+    },
+    {
+        "log": "1119973318 2005.06.28 R02-M1-N0-C:J03-U01 RAS KERNEL Target=ido://FF:F2:9F:16:E6:86:00:0D:60:E9:19:79/JTAG/8 Message=Pll failed to lock",
+        "index": 385
+    },
+    {
+        "log": "1123019408 2005.08.02 UNKNOWN_LOCATION NULL SERV_NET DeclareServiceNetworkCharacteristics has been run with the force option but the DB is not empty",
+        "index": 386
+    },
+    {
+        "log": "1120911385 2005.07.09 R21-M0-N9-C:J12-U01 RAS KERNEL rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, type=6656, cpu=16, index=2318133809, total=269103504",
+        "index": 387
+    },
+    {
+        "log": "1118231334 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL DDR machine check register: 0x00000000 0x00010000",
+        "index": 388
+    },
+    {
+        "log": "1117961700 2005.06.05 R11-M0-NB-C:J07-U11 RAS KERNEL data read plb error...............0",
+        "index": 389
+    },
+    {
+        "log": "1135579625 2005.12.25 R62-M1-NA-C:J04-U01 RAS KERNEL r04=0x0030e278 r05=0x00000000 r06=0xfefefeff r07=0x7f7f7f7f",
+        "index": 390
+    },
+    {
+        "log": "1119972857 2005.06.28 UNKNOWN_LOCATION NULL HARDWARE NodeCard VPD chip is not accessible",
+        "index": 393
+    },
+    {
+        "log": "1123525775 2005.08.08 R23-M0 NULL HARDWARE EndServiceAction 338 performed upon R23-M0 by gooding3",
+        "index": 394
+    },
+    {
+        "log": "1121213725 2005.07.12 R30-M0-NC-I:J18-U11 RAS KERNEL MailboxMonitor::serviceMailboxes() lib_ido_error: -1114 unexpected socket error: Broken pipe",
+        "index": 397
+    },
+    {
+        "log": "1123915721 2005.08.12 R15-M0-NC-I:J18-U01 RAS APP ciod: Error reading message prefix after VERSION_MESSAGE on CioStream socket to 172.16.96.116:53788: Link has been severed",
+        "index": 398
+    },
+    {
+        "log": "1133222430 2005.11.28 R43-M1-N6 NULL HARDWARE PrepareForService shutting down Node card(mLctn(R43-M1-N6), mCardSernum(203231503833343000000000594c31304b3530303730305a), mLp(FF:F2:9F:16:BD:E2:00:0D:60:E9:42:1D), mIp(10.4.1.1), mType(4)) as part of Service Action 603",
+        "index": 399
+    },
+    {
+        "log": "1118231324 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL machine check interrupt (bit=0x06): L3 major internal error",
+        "index": 404
+    },
+    {
+        "log": "1117961702 2005.06.05 R11-M0-NB-C:J07-U11 RAS KERNEL problem state (0=sup,1=usr).......1",
+        "index": 408
+    },
+    {
+        "log": "1125552684 2005.08.31 R76-M0-NC-I:J18-U11 RAS KERNEL Lustre mount FAILED : bglio1003 : point /p/gb1",
+        "index": 409
+    },
+    {
+        "log": "1119972820 2005.06.28 UNKNOWN_LOCATION NULL DISCOVERY Problem communicating with node card, iDo machine with LP of FF:F2:9F:16:E8:0B:00:0D:60:E9:17:F4 caught java.lang.IllegalStateException: while executing CONTROL Operation caught java.lang.RuntimeException: Communication error: (DirectIDo for com.ibm.ido.DirectIDo object [FF:F2:9F:16:E8:0B:00:0D:60:E9:17:F4@/10.0.1.16:0 with image version 13 and card type 4] is in state = COMMUNICATION_ERROR, sequenceNumberIsOk = false, ExpectedSequenceNumber = 0, Reply Sequence Number = -1, timedOut = true, retries = 200, timeout = 1000, Expected Op Command = 2, Actual Op Reply = -1, Expected Sync Command = 8, Actual Sync Reply = -1)",
+        "index": 410
+    },
+    {
+        "log": "1120230023 2005.07.01 R04-M0-L3 NULL HARDWARE PrepareForService shutting down LinkCard(mLctn(R04-M0-L3), mCardSernum(203937503438383700000000594c31314b34323839303043), mLp(FF:F2:9F:15:7E:5A:00:0D:60:EA:81:A5), mIp(10.0.1.9), mType(1)) as part of Service Action 241",
+        "index": 412
+    },
+    {
+        "log": "1132169232 2005.11.16 R46-M1-NC-I:J18-U11 RAS KERNEL ciod: Z coordinate 8 exceeds physical dimension 8 at line 9 of node map file map.dat",
+        "index": 413
+    },
+    {
+        "log": "1132230156 2005.11.17 R36-M1-N0-C:J16-U11 RAS KERNEL minus inf................................0",
+        "index": 414
+    },
+    {
+        "log": "1117961702 2005.06.05 R11-M0-NB-C:J07-U11 RAS KERNEL floating pt ex mode 0 enable......0",
+        "index": 415
+    },
+    {
+        "log": "1118231335 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL memory manager uncorrectable error...............1",
+        "index": 416
+    },
+    {
+        "log": "1132191241 2005.11.16 R56-M1-N0-I:J18-U01 RAS APP ciod: Error creating node map from file map.dat: No child processes",
+        "index": 417
+    },
+    {
+        "log": "1119319442 2005.06.20 R10-M0-N0-I:J18-U11 RAS KERNEL ciod: Unexpected eof at line 8193 of node map file /p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map",
+        "index": 418
+    },
+    {
+        "log": "1118231329 2005.06.08 R33-M1-ND-C:J15-U11 RAS KERNEL start initialization.....................0",
+        "index": 419
+    },
+    {
+        "log": "1127162094 2005.09.19 R01-M0-NC-I:J18-U11 RAS KERNEL ciod: generated 5 core files for program /bgl/apps/SWL/functional/mpich2-1.0.1/test/mpi/coll/icbcast",
+        "index": 420
+    },
+    {
+        "log": "1132329485 2005.11.18 R01-M1-S NULL MONITOR While setting fan speed caught java.lang.IllegalStateException: while executing I2C Operation caught java.lang.IllegalStateException: client not in a usable state because java.lang.IllegalStateException: client not in a usable state because java.lang.IllegalStateException: client not in a usable state because java.lang.IllegalStateException: client not in a usable state because java.lang.IllegalStateException: client not in a usable state because java.lang.IllegalStateException: client not in a usable state because java.lang.IllegalStateException: client not in a usable state because java.net.SocketException: Broken pipe",
+        "index": 423
+    },
+    {
+        "log": "1118770415 2005.06.14 R26-M0-NB-C:J09-U11 RAS KERNEL program interrupt: fp cr update.............0",
+        "index": 425
+    },
+    {
+        "log": "1120061346 2005.06.29 R02-M0-N0 NULL DISCOVERY Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD is OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.",
+        "index": 427
+    },
+    {
+        "log": "1120912242 2005.07.09 R33-M0-NC-C:J12-U01 RAS KERNEL rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, type=53060, cpu=77, index=1140851844, total=0",
+        "index": 428
+    },
+    {
+        "log": "1125030894 2005.08.25 R77-M1-N4-I:J18-U11 RAS KERNEL Lustre mount FAILED : bglio1015 : block_id : location",
+        "index": 429
+    },
+    {
+        "log": "1120235867 2005.07.01 UNKNOWN_LOCATION NULL HARDWARE EndServiceAction 246 performed upon R17 by root",
+        "index": 430
+    },
+    {
+        "log": "1118678920 2005.06.13 UNKNOWN_LOCATION NULL CMCS Controlling BG/L rows [ 0 1 2 3 ]",
+        "index": 431
+    },
+    {
+        "log": "1134895661 2005.12.18 R66-M0-N8-I:J18-U11 RAS APP ciod: Error loading ./pop4000: program image too big, 586438352 > 266076160",
+        "index": 432
+    },
+    {
+        "log": "1123994597 2005.08.13 R45-M1-N8-C:J08-U11 RAS KERNEL rts: bad message header: index 0 greater than total 0 (softheader=00000002 00000001 00000000 00000000) PSR0=00000f00 PSR1=00000000 PRXF=00000002 PIXF=00000007",
+        "index": 433
+    },
+    {
+        "log": "1123101980 2005.08.03 UNKNOWN_LOCATION NULL DISCOVERY Bad cable going into LinkCard (203937503438383700000000594C31314B34333237303248) Jtag (0) Port (C) - 1 bad wires",
+        "index": 435
+    },
+    {
+        "log": "1125225392 2005.08.28 R00-M0-N8-I:J18-U11 RAS KERNEL NFS Mount failed on bglio9, slept 1 seconds, retrying (2)",
+        "index": 436
+    },
+    {
+        "log": "1129920284 2005.10.21 R40-M1-NC-I:J18-U11 RAS APP ciod: Error loading /home/draeger/mo1000_dat64k_101705/mo1000/qb-newmpi: invalid or missing program image, No such file or directory",
+        "index": 437
+    },
+    {
+        "log": "1123201981 2005.08.04 NULL RAS MMCS idoproxydb has been started: $Name: V1R1 $ Input parameters: -enableflush -loguserinfo db.properties BlueGene1",
+        "index": 438
+    },
+    {
+        "log": "1119456580 2005.06.22 R02-M1-N0-C:J12-U11 RAS KERNEL program interrupt",
+        "index": 440
+    },
+    {
+        "log": "1120753438 2005.07.07 R27-M1-N5-C:J02-U01 RAS KERNEL gister: machine state register: machine state register: machine state register: machine state register: machine state register:",
+        "index": 442
+    },
+    {
+        "log": "1132706898 2005.11.22 R47-M1-NC-I:J18-U11 RAS KERNEL idoproxy communication failure: BGLERR_IDO_PKT_TIMEOUT connection lost to node/link/service card",
+        "index": 444
+    },
+    {
+        "log": "1119401087 2005.06.21 R22-M0-N8-I:J18-U11 RAS APP ciod: Error loading ./runtime_malloc: invalid or missing program image, No such file or directory",
+        "index": 445
+    }
+]
